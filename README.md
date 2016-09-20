@@ -20,3 +20,4 @@
 ##	优秀的订阅站点
 *	干货集中营: <https://gank.io/>
 * 	开发技术前线: <http://www.devtf.cn/?cat=2>
+*	GcsSloop: <http://www.gcssloop.com/#blog>
