@@ -27,3 +27,6 @@
 *	干货集中营: <https://gank.io/>
 * 	开发技术前线: <http://www.devtf.cn/?cat=2>
 *	GcsSloop: <http://www.gcssloop.com/#blog>
+
+##	其他：
+＊	MDCC 2016， slides: <https://github.com/MDCC2016/Android-Session-Slides>
