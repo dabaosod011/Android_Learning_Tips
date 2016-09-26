@@ -6,6 +6,7 @@
 
 ## 	进阶疗程
 *	安卓自定义View教程目录: <http://www.gcssloop.com/customview/CustomViewIndex/>
+*	Android NDK 开发之旅:  <http://www.jianshu.com/collection/a25bf14495d7?url_type=39&object_type=webpage&pos=1>
 
 ##	RxJava, RxAndroid
  * 	Grokking RxJava: <http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/>
